@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Myipad Admin</string>
+    <string name="dm_extra_add_explanation">激活设备管理器</string>
+    <string name="github">github</string>
+    <string name="jump_to_git">跳转至项目地址</string>
+    <string name="active_option">激活选项</string>
+    <string name="active_admin">激活设备管理器</string>
+    <string name="inactive_admin">取消激活设备管理器</string>
+    <string name="function_option_password">功能选项（密码类）</string>
+    <string name="lock_screen_policy">配置解锁策略</string>
+    <string name="reset_password">重置锁屏密码</string>
+    <string name="set_delay_lock_screen">设置延时锁屏</string>
+    <string name="setMaximumFailedPasswordsForWipe">设置尝试次数</string>
+    <string name="setPasswordMinimumLength">设置密码长度</string>
+    <string name="function_option_system">功能选项（系统类）</string>
+    <string name="wipe_data">清除本机数据</string>
+    <string name="enableSystemApp">启用系统应用</string>
+    <string name="setApplicationHide">设置应用隐藏</string>
+    <string name="setApplicationUnHide">恢复应用可见</string>
+    <string name="setUninstallBlocked">设置禁止卸载</string>
+    <string name="setUninstallUnBlocked">设置允许卸载</string>
+    <string name="setStorageEncryption">设置存储加密</string>
+</resources>
